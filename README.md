@@ -1,4 +1,4 @@
-# MiniRV-8 ? Educational 8-bit CPU
+# MiniRV-8: Educational 8-bit CPU
 
 MiniRV-8 is a custom accumulator-based 8-bit processor implemented in SystemVerilog and simulated with Icarus Verilog.
 
